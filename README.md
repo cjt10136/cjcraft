@@ -1,9 +1,8 @@
 # cjcraft
 
 A Minecraft made with Vulkan.
-
-![image](https://github.com/cj2yt11/cjcraft/assets/147161189/92fe5c0c-d9fb-4778-9ea9-2c2dfbac73bd)
-![image](https://github.com/cj2yt11/cjcraft/assets/147161189/d5bb9c7b-1fa9-4e39-a40b-27394450329a)
+![image](https://github.com/cjt10136/cjcraft/assets/147172598/b5328921-bee7-4a37-bd74-dd990c6a228e)
+![image](https://github.com/cjt10136/cjcraft/assets/147172598/cab4a0e1-e6cd-42db-886d-04d7876b7e85)
 
 ## Place and Destroy Blocks
 https://youtu.be/Ck5vfoPDROs
