@@ -1,0 +1,10 @@
+{
+  "name": "cjcraft",
+  "dependencies": [
+    "glfw3",
+    "glm",
+    "ms-gsl",
+    "stb",
+    "vulkan-headers"
+  ]
+}

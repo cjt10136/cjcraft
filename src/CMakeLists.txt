@@ -1,0 +1,10 @@
+add_subdirectory(container)
+add_subdirectory(control)
+add_subdirectory(loader)
+add_subdirectory(math)
+add_subdirectory(renderer)
+add_subdirectory(world)
+
+add_executable(main main.cpp)
+target_link_libraries(main PRIVATE renderer container small_vector)
+add_dependencies(main shaders)
